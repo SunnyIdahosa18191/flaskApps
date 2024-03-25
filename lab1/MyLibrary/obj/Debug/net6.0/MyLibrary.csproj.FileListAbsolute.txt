@@ -1,0 +1,12 @@
+D:\HOKAIDO\KPI\5 SEM\.NET Web\lab1\lab1\MyLibrary\bin\Debug\net6.0\MyLibrary.deps.json
+D:\HOKAIDO\KPI\5 SEM\.NET Web\lab1\lab1\MyLibrary\bin\Debug\net6.0\MyLibrary.dll
+D:\HOKAIDO\KPI\5 SEM\.NET Web\lab1\lab1\MyLibrary\bin\Debug\net6.0\MyLibrary.pdb
+D:\HOKAIDO\KPI\5 SEM\.NET Web\lab1\lab1\MyLibrary\obj\Debug\net6.0\MyLibrary.csproj.AssemblyReference.cache
+D:\HOKAIDO\KPI\5 SEM\.NET Web\lab1\lab1\MyLibrary\obj\Debug\net6.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOKAIDO\KPI\5 SEM\.NET Web\lab1\lab1\MyLibrary\obj\Debug\net6.0\MyLibrary.AssemblyInfoInputs.cache
+D:\HOKAIDO\KPI\5 SEM\.NET Web\lab1\lab1\MyLibrary\obj\Debug\net6.0\MyLibrary.AssemblyInfo.cs
+D:\HOKAIDO\KPI\5 SEM\.NET Web\lab1\lab1\MyLibrary\obj\Debug\net6.0\MyLibrary.csproj.CoreCompileInputs.cache
+D:\HOKAIDO\KPI\5 SEM\.NET Web\lab1\lab1\MyLibrary\obj\Debug\net6.0\MyLibrary.dll
+D:\HOKAIDO\KPI\5 SEM\.NET Web\lab1\lab1\MyLibrary\obj\Debug\net6.0\refint\MyLibrary.dll
+D:\HOKAIDO\KPI\5 SEM\.NET Web\lab1\lab1\MyLibrary\obj\Debug\net6.0\MyLibrary.pdb
+D:\HOKAIDO\KPI\5 SEM\.NET Web\lab1\lab1\MyLibrary\obj\Debug\net6.0\ref\MyLibrary.dll
