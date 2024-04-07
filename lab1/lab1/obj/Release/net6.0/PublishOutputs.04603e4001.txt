@@ -1,0 +1,7 @@
+D:\HOKAIDO\KPI\5 SEM\.NET Web\lab1\lab1\lab1\bin\Release\net6.0\publish\lab1.exe
+D:\HOKAIDO\KPI\5 SEM\.NET Web\lab1\lab1\lab1\bin\Release\net6.0\publish\lab1.dll
+D:\HOKAIDO\KPI\5 SEM\.NET Web\lab1\lab1\lab1\bin\Release\net6.0\publish\lab1.deps.json
+D:\HOKAIDO\KPI\5 SEM\.NET Web\lab1\lab1\lab1\bin\Release\net6.0\publish\lab1.runtimeconfig.json
+D:\HOKAIDO\KPI\5 SEM\.NET Web\lab1\lab1\lab1\bin\Release\net6.0\publish\lab1.pdb
+D:\HOKAIDO\KPI\5 SEM\.NET Web\lab1\lab1\lab1\bin\Release\net6.0\publish\MyLibrary.dll
+D:\HOKAIDO\KPI\5 SEM\.NET Web\lab1\lab1\lab1\bin\Release\net6.0\publish\MyLibrary.pdb
