@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kA9gPObj2uewRVeQFY5qG1y44la70wUL76q4dsMhiekLie6SpAeRPpwVb9H8eAjKT/vOPDSVM+HxqEVC2PkZ9Q==",
+  "success": true,
+  "projectFilePath": "D:\\HOKAIDO\\KPI\\5 SEM\\.NET Web\\lab1\\lab1\\lab1\\lab1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\boghd\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
